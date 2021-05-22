@@ -1,14 +1,11 @@
-## CHANGE this to the name of your plugin.
-name: SlimefunAddon
+name: GuiAddon
 
-## CHANGE this to your username.
-author: CHANGEME
+author: Rusty_Craft18
 
-## CHANGE this to a meaninful but short description of your plugin.
-description: A generic Slimefun4-Addon
+description: This addon was created for the soul idea of helping new and experience players of Slimefun.
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
-main: me.CHANGEME.slimefunaddon.ExampleAddon
+main: me.rusty_craft18.GuiAddon.guiaddon
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
 website: https://github.com/Slimefun/Addon-Template
